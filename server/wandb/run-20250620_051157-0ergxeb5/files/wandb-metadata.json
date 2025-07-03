@@ -1,0 +1,44 @@
+{
+  "os": "Linux-6.1.123+-x86_64-with-glibc2.35",
+  "python": "CPython 3.11.13",
+  "startedAt": "2025-06-20T05:11:57.846985Z",
+  "program": "modelTraining.ipynb",
+  "codePath": "server/modelTraining.ipynb",
+  "git": {
+    "remote": "https://github.com/AchintyaGupta2763/AchintyaCloneBot.git",
+    "commit": "4f1bb98318cf78f7feb889eb81641270e601d0c8"
+  },
+  "email": "69homiesatwork@gmail.com",
+  "root": "/content/drive/MyDrive/AchintyaCloneBot/server",
+  "host": "2301d86948be",
+  "executable": "/usr/bin/python3",
+  "codePathLocal": "modelTraining.ipynb",
+  "colab": "https://colab.research.google.com/notebook#fileId=19qtcfH7eQVpR-_os8FSDg2yjPSr6yRgc",
+  "cpu_count": 1,
+  "cpu_count_logical": 2,
+  "gpu": "Tesla T4",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "120942624768",
+      "used": "46778908672"
+    }
+  },
+  "memory": {
+    "total": "13608370176"
+  },
+  "cpu": {
+    "count": 1,
+    "countLogical": 2
+  },
+  "gpu_nvidia": [
+    {
+      "name": "Tesla T4",
+      "memoryTotal": "16106127360",
+      "cudaCores": 2560,
+      "architecture": "Turing",
+      "uuid": "GPU-fcc2442c-9272-8ff7-f522-0db32a2e2715"
+    }
+  ],
+  "cudaVersion": "12.4"
+}
